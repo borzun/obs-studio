@@ -80,7 +80,6 @@ static const char *source_signals[] = {
 	"void transition_start(ptr source)",
 	"void transition_video_stop(ptr source)",
 	"void transition_stop(ptr source)",
-	"void game_capture_changed(ptr source)",
 	NULL,
 };
 
